@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker build --platform=linux/aarch64 -t evi0s/armtorch:1.5.1 .
+
